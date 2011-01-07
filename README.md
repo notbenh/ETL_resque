@@ -1,3 +1,6 @@
+First thank you to igal, this is all built directly from his examples from https://github.com/igal/resque_and_redis_eg.
+
+
 Resque and Redis examples
 =========================
 
